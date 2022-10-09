@@ -3,7 +3,7 @@
 - :art: I like drawing and photography.
 - 🌱 I’m currently learning web development [The Odin Project](https://www.theodinproject.com/)
 - 💞️ I’m collaborating in a personal project with friends ...
-- 📫 How to reach me [twitter](https://twitter.com/home)
+
 
 
 <!---
