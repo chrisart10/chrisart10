@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chrisart10
 - 👀 I’m interested in Web development and Artificial Intelligence.
 - :art: I like drawing and photography.
-- 🌱 I’m currently learning web development [The Odin Project](https://www.theodinproject.com/)
+- :memo: I’m currently learning web development [The Odin Project](https://www.theodinproject.com/)
 - 💞️ I’m collaborating in a personal project with friends ...
 
 
